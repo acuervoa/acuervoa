@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/acuervoa?template=terminal&isocalendar=1&languages=1&pagespeed=1&stars=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=half-year&tweets.limit=2&stars.limit=4&config.timezone=Europe%2FBrussels)
+![Metrics](https://metrics.lecoq.io/acuervoa?template=classic&base.community=0&languages=1&stars=1&stars.limit=4&config.timezone=Europe%2FBrussels)
