@@ -714,21 +714,21 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="210.92380546198274" height="8" fill="#4F5D95"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="210.89034084931362" height="8" fill="#4F5D95"/>
         
-          <rect mask="url(#languages-bar)" x="210.92380546198274" y="0" width="112.17550755972674" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="210.89034084931362" y="0" width="112.15771009062065" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="323.09931302170946" y="0" width="101.40503884665375" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="323.0480509399343" y="0" width="101.12408994727504" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="424.5043518683632" y="0" width="14.108536508752838" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="424.1721408872093" y="0" width="12.474423979524358" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="438.61288837711606" y="0" width="9.818406054805044" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="436.6465648667336" y="0" width="9.816848292489253" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="448.4312944319211" y="0" width="4.665750210026733" height="8" fill="#2b7489"/>
+          <rect mask="url(#languages-bar)" x="446.4634131592229" y="0" width="4.665009954448434" height="8" fill="#2b7489"/>
         
-          <rect mask="url(#languages-bar)" x="453.09704464194783" y="0" width="4.0823668982000845" height="8" fill="#89e051"/>
+          <rect mask="url(#languages-bar)" x="451.1284231136714" y="0" width="4.154701583075266" height="8" fill="#89e051"/>
         
-          <rect mask="url(#languages-bar)" x="457.1794115401479" y="0" width="1.3914324701133813" height="8" fill="#2c3e50"/>
+          <rect mask="url(#languages-bar)" x="455.2831246967466" y="0" width="1.6089026022016697" height="8" fill="#f7523f"/>
         
       </svg>
       <div class="field center horizontal-wrap fill-width">
@@ -769,8 +769,8 @@
           </div>
         
           <div class="field center no-wrap language">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-            Vue
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f7523f" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+            Blade
           </div>
         
       </div>
@@ -847,7 +847,7 @@
                   
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/></svg>
-                    5.42k
+                    5.43k
                   </div>
                   <div>
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/></svg>
@@ -1007,7 +1007,7 @@
       
         <footer>
           <span>These metrics do not include all private contributions, timezone Europe/Brussels</span>
-          <span>Last updated Tue, 26 Jan 2021 11:07:48 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Tue, 26 Jan 2021 12:08:10 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
