@@ -735,7 +735,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1130,7 +1130,7 @@
           
             <span>These metrics do not include all private contributions, timezone Europe/Brussels</span>
           
-          <span>Last updated Tue, 09 Feb 2021 23:06:01 GMT with lowlighter/metrics@3.3.0</span>
+          <span>Last updated Wed, 10 Feb 2021 00:13:56 GMT with lowlighter/metrics@3.3.0</span>
         </footer>
       
       <div id="metrics-end"></div>
