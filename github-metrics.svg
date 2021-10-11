@@ -1516,7 +1516,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>youtube/api-samples</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1554,7 +1554,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>googleapis/google-api-php-client</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1665,7 +1665,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12/10/2021, 00:07 (timezone Europe/Brussels) with lowlighter/metrics@3.14.0</span>
+                <span>Last updated 12/10/2021, 01:07 (timezone Europe/Brussels) with lowlighter/metrics@3.14.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
