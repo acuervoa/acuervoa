@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bukka/php-fann</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PHP wrapper for FANN (Fast Artificial Neural Network Library)</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libfann/fann</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official github repository for Fast Artificial Neural Network Library (FANN)</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>php-opencv/php-opencv-examples</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tutorial for computer vision and machine learning in PHP 7/8 by opencv (installation + examples + documentation)</div>
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Apr 2023, 23:07:25 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 21 Apr 2023, 00:07:49 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
