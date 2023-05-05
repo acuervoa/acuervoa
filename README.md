@@ -13,7 +13,7 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=acuervoa&theme=highcontrast&border_radius=10&locale=es&background=45%2CEB0000%2C170808)](https://git.io/streak-stats)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acuervoa)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acuervoa&layout=compact&langs_count=10)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acuervoa)
   
