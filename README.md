@@ -1,6 +1,4 @@
 <div id="header" align="center">
-
-  ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
   
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,20 +7,15 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=acuervoa&style=flat-square&color=blue" alt=""/>
 <img src="https://img.shields.io/github/followers/acuervoa?style=social" alt="Followers Github"/>
-  
-  
+ 
 ---
-
+<div id="stats">
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=acuervoa&theme=highcontrast&border_radius=10&locale=es&background=45%2CEB0000%2C170808)](https://git.io/streak-stats)
-
----
-
-<!-- ![Metrics](https://github.com/acuervoa/acuervoa/blob/master/github-metrics.svg) -->
-
-
   
-<!--  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kuerbo&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acuervoa)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=acuervoa)
   
-  
-  
+  </div>
 </div>
