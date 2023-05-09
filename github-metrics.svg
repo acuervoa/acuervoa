@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parcel-bundler/parcel</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The zero configuration build tool for the web. 📦🚀</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redis-developer/redis-chat-challenge</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Hackathon challenge to build a real-time chat application powered by Redis.</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dan-smith-tech/shelf</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fully customisable, open-source browser startpage.</div>
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 May 2023, 16:08:04 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 9 May 2023, 17:08:37 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
