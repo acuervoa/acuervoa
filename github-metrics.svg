@@ -332,7 +332,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>parcel-bundler/parcel</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The zero configuration build tool for the web. 📦🚀</div>
@@ -385,7 +385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>redis-developer/redis-chat-challenge</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Hackathon challenge to build a real-time chat application powered by Redis.</div>
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 May 2023, 12:08:44 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 16 May 2023, 13:07:17 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
