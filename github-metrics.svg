@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>grassmunk/Chicago95</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A rendition of everyone's favorite 1995 Microsoft operating system for Linux.</div>
@@ -279,7 +279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coding-horror/basic-computer-games</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An updated version of the classic "Basic Computer Games" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/</div>
@@ -429,7 +429,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2023, 11:06:54 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Aug 2023, 12:07:35 (timezone Europe/Brussels) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
