@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lenguaje-latino/latino</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lenguaje de programación de código abierto para latinos y de habla hispana.</div>
@@ -391,7 +391,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keploy/keploy</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test generation for Developers. Generate tests and stubs for your application that actually work!</div>
@@ -441,7 +441,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Oct 2023, 11:09:11 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2023, 12:06:58 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
