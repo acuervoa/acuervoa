@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phpbrew/phpbrew</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Brew &amp; manage PHP versions in pure PHP at HOME</div>
@@ -441,7 +441,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2023, 16:08:56 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Nov 2023, 17:10:30 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
