@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>utkusen/promptmap</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">automatically tests prompt injection attacks on ChatGPT instances</div>
@@ -326,7 +326,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>feroldi/ricing</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a book about ricing unix-like systems</div>
@@ -379,7 +379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mindcrypt/cracking</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is my personal recopilation about cracking and automatic tools</div>
@@ -417,7 +417,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Dec 2023, 14:12:04 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Dec 2023, 15:08:32 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
