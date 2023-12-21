@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker/awesome-compose</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome Docker Compose samples</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>utkusen/promptmap</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">automatically tests prompt injection attacks on ChatGPT instances</div>
@@ -429,7 +429,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2023, 12:07:16 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2023, 13:14:41 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
