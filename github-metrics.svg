@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>docker/awesome-compose</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Awesome Docker Compose samples</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danluu/post-mortems</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of postmortems. Sorry for the delay in merging PRs!</div>
@@ -429,7 +429,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2023, 17:10:22 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Dec 2023, 18:08:02 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
