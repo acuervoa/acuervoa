@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ollama-webui/ollama-webui</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGPT-Style Web UI Client for Ollama 🦙</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/generative-ai-for-beginners</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/Mastering-GitHub-Copilot-for-Paired-Programming</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.</div>
@@ -441,7 +441,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2023, 03:16:54 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Dec 2023, 04:08:35 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
