@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ollama-webui/ollama-webui</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ChatGPT-Style Web UI Client for Ollama 🦙</div>
@@ -441,7 +441,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Jan 2024, 14:09:59 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jan 2024, 15:07:52 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
