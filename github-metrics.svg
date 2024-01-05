@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coryasilva/Leaflet.ExtraMarkers</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Custom Markers for Leaflet JS based on Awesome Markers</div>
@@ -338,7 +338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leaflet-extras/leaflet-providers</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An extension to Leaflet that contains configurations for various free tile providers.</div>
@@ -441,7 +441,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jan 2024, 20:07:03 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2024, 21:08:51 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
