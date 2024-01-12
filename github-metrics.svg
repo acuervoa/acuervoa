@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>greshake/i3status-rust</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust</div>
@@ -429,7 +429,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jan 2024, 16:08:12 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 17:10:42 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
