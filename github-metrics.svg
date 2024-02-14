@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>initialcommit-com/git-sim</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visually simulate Git operations in your own repos with a single terminal command.</div>
@@ -441,7 +441,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Feb 2024, 11:09:00 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2024, 12:08:16 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
