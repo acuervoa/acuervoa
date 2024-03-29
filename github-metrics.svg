@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>muesli/beehive</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A flexible event/agent &amp; automation system with lots of bees 🐝</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akinomyoga/ble.sh</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.</div>
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2024, 19:10:14 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Mar 2024, 20:06:42 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
