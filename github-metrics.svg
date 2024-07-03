@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>polybar/polybar-scripts</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a community project. We write and collect scripts for polybar!</div>
@@ -426,7 +426,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jul 2024, 21:07:41 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2024, 22:09:58 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
