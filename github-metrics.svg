@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/tokyonight.nvim</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>
@@ -388,7 +388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>aleeherasimiuk/Guia-de-Instalacion-de-Arch-Linux</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Guía de instalación de Arch Linux.</div>
@@ -426,7 +426,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jul 2024, 20:12:15 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jul 2024, 21:08:44 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
