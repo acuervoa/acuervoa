@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>folke/tokyonight.nvim</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🏙  A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</div>
@@ -438,7 +438,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2024, 20:11:04 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2024, 21:06:56 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
