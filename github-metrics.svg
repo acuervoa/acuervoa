@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tmux/tmux</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tmux source code</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tmux-plugins/list</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A list of tmux plugins.</div>
@@ -417,7 +417,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2024, 11:10:52 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Aug 2024, 12:12:13 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
