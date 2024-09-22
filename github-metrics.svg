@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>julien040/anyquery</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Query anything (JSON, CSV, GitHub, Notion, Airtable, GSheets, emails, etc.) with SQL</div>
@@ -285,7 +285,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abi/screenshot-to-code</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</div>
@@ -385,7 +385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lllyasviel/Fooocus</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Focus on prompting and generating</div>
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Sept 2024, 11:10:10 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Sept 2024, 12:10:15 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
