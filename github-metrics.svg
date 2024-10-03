@@ -232,7 +232,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ddev/ddev</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker-based local PHP+Node.js web development environments</div>
@@ -288,7 +288,7 @@
                                         <span>starred 22 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Query anything (JSON, CSV, GitHub, Notion, Airtable, GSheets, emails, etc.) with SQL</div>
+                                <div class="field description">Query anything (JSON, CSV, GitHub, Airtable, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Oct 2024, 18:12:55 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2024, 19:09:30 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
