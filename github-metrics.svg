@@ -288,7 +288,7 @@
                                         <span>starred Sep 11 2024</span>
                                     </div>
                                 </div>
-                                <div class="field description">Query anything (JSON, CSV, GitHub, Airtable, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.</div>
+                                <div class="field description">Query anything (JSON, Salesforce, GitHub, Airtable, etc.) with SQL and visualize your data with any MySQL-compatible BI tool.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -435,7 +435,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Oct 2024, 14:19:26 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Oct 2024, 15:19:44 (timezone Europe/Brussels) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
